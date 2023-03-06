@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hello 👋
 
 I'm Sing-Kai and welcome to my GitHub. I'm full stack software engineer that's passionate about building quality software solutions, I enjoy working in collabrative environments where I can make a lasting impact.
 
