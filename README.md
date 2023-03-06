@@ -1,4 +1,8 @@
-### Hi there 👋 Welcome to my GitHub.
+### Hey there 👋
+
+I'm Sing-Kai and welcome to my GitHub. I'm full stack software engineer that's passionate about building quality software solutions, I enjoy working in collabrative environments where I can make a lasting impact.
+
+My Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sing-Kai&layout=compact&hide=C,Java,Html"/>
 
